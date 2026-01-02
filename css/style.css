@@ -55,3 +55,13 @@
   font-size: 14px;
   margin-top: 8px;
 }
+
+.post-image {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 15px auto;
+  border: 1px solid #bbb;
+  padding: 4px;
+  background: #fff;
+}
